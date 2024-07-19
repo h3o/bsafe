@@ -1,0 +1,10 @@
+build/
+sdkconfig.old
+/.project.0
+/sdkconfig.0
+/sdkconfig.1
+/sdkconfig.2
+/sdkconfig.3
+/sdkconfig.4
+/partitions_bsaf.csv.0
+/partitions_bsaf.csv.1
